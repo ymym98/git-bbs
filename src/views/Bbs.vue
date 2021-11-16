@@ -21,9 +21,8 @@ export default class BbsDetail extends Vue {
   // 現在の記事一覧
   private currentArticleList = new Array<Article>();
 
-
-@Component
-export default class Bbs extends Vue {
+  // @Component
+  // export default class Bbs extends Vue {
   private articleName = "";
   private articleContent = "";
 
